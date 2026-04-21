@@ -1,0 +1,15 @@
+{
+  "cpt-digitalauto": {
+    "description": "Automatización de tareas dentro del sitio web sin intervención manual. Ejecutar acciones programadas o basadas en eventos. Permite conectar funciones entre plugins o sistemas. se usa para optimizar procesos y ahorrar tiempo."
+"
+  },
+  "crm-egos-sync": {
+    "description": "Sincronización automática con CRM externo para evitar datos básicos del sitio, permitiendo monitoreo remoto, control centralizado y gestión automatizada de múltiples webs."
+  },
+  "plugin-cpt-agenciaegos": {
+    "description": "Optimización del contenido dinámico con creación de tipos personalizados, campos avanzados y generación automática de shortcodes para mostrar información en la web de forma flexible."
+  },
+  "schema-master-pro": {
+    "description": "Plugin de WordPress para la gestión profesional de datos estructurados JSON-LD. Interfaz de administración inspirada en SaaS, más de 15 tipos de esquema, autocompletado inteligente, vista previa en tiempo real y editor de metabox por página. Desarrollado para Agencia EGOS."
+  }
+}
